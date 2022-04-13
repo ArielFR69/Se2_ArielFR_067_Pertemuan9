@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-// Penyelesaian Fibonacci dengan Cara Intraktif
+// Penyelesaian Fibonacci dengan Cara Interaktif
 int main(){
 	 // Inisialisasi Variabel 
     int batas, f1 = 0, f2 = 1, selanjutnya = 0;
